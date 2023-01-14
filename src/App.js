@@ -1,6 +1,6 @@
 
 import {useState, useEffect, useRef} from 'react'
-import randomWords from 'random-words'
+import randomWords from 'random-words';
 const NUMB_OF_WORDS = 30
 const SECONDS = 60
 
